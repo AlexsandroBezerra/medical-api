@@ -1,0 +1,16 @@
+{
+  "name": "medical-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An API for patient screening and medical appointments",
+  "homepage": "https://github.com/AlexsandroBezerra/medical-api#readme",
+  "bugs": {
+    "url": "https://github.com/AlexsandroBezerra/medical-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexsandroBezerra/medical-api.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Alexsandro G Bezerra <alexsandro.g.bezerra@gmail.com>"
+}

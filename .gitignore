@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+
+# Serverless directory
+.serverless
+
+# DynamoDB Local files
+.dynamodb
+
+# Optional eslint cache
+.eslintcache
